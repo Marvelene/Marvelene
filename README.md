@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marvelene
-- 👀 I’m interested in Full Stack Development and Software Engineering.
+- 👀 I’m interested in Full Stack Development and DevOps Engineering.
 - 🌱 I’m currently learning JavaScript Algorithms and Structures.
 - 💞️ I’m looking to collaborate on Web projects.
 - 📫 How to reach me ...
