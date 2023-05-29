@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marvelene
 - 👀 I’m interested in Full Stack Development and DevOps Engineering.
-- 🌱 I’m currently on learning Frontend Web development.
+- 🌱 I’m currently learning Frontend Web development.
 - 💞️ I’m looking to collaborate on Web projects.
 - 📫 How to reach me: 
 - Twitter - [@marvelene_dev](https://www.twitter.com/marvelene_dev)
